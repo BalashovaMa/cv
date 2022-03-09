@@ -5,8 +5,11 @@
 ***Contact information***
 
 Phone: +380(98)238-58-93 
+
 Email: balashova.m.nd@gmail.com
+
 Discord: BalashovaMa#5427
+
 Telegram: @BalashovaMa
 
 *****
