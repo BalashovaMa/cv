@@ -22,6 +22,7 @@ Telegram: @BalashovaMa
 **Skills**
 
 Programming languages and technologies: JavaScript, HTML, CSS/SCSS
+
 Tools: GIT, VS Code
 
 *****
