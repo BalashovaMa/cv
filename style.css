@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+html {
+    scroll-behavior: smooth;
+}
