@@ -18,4 +18,40 @@ body {
     box-sizing: border-box;
     flex-direction: column;
     color: #e3d23c;
+    font-size: 20px;
+    font-weight: 400;
+    min-width: 320px;
+    line-height: 2;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0 20px;
+} 
+nav {
+    display: block;
+}
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #e3d23c;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+
+}
+.cv_navigator {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 10px;
+    width: 100%;
+}
+.cv_navigator_link:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+    transform: scale(1.2);
 }
