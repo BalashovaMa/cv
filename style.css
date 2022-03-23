@@ -55,3 +55,24 @@ a {
     filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
     transform: scale(1.2);
 }
+.about_me {
+    background-color: #edebd7;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-direction: row;
+    gap: 30px;
+   
+}
+/*.foto {
+    border-radius: 50%;
+}*/
+.information {
+    color: #6e675f;
+    display: flex;
+    flex-direction: column;
+}
+.text {
+    display: flex;
+    align-items: center;
+}
