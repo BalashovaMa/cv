@@ -29,6 +29,7 @@ body {
     justify-content: space-between;
     margin: 0 auto;
     padding: 0 20px;
+    width: 100%;
 } 
 nav {
     display: block;
@@ -64,9 +65,10 @@ a {
     gap: 30px;
    
 }
-/*.foto {
-    border-radius: 50%;
-}*/
+.profile_foto {
+    display: flex;
+    align-items: center;
+}
 .information {
     color: #6e675f;
     display: flex;
@@ -75,4 +77,5 @@ a {
 .text {
     display: flex;
     align-items: center;
+    margin-top: 20px;
 }
