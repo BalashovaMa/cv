@@ -43,7 +43,7 @@ a {
     font-size: 20px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-
+    text-align: center;
 }
 .cv_navigator {
     display: flex;
@@ -78,4 +78,35 @@ a {
     display: flex;
     align-items: center;
     margin-top: 20px;
+}
+.contacts {
+    width: 100%;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto 100px 100px auto;
+    grid-gap: 10px;
+    
+    padding: 10px;
+  }
+  .contact_icon_1 {
+      display: flex;
+      justify-content: right;
+  }
+  .contact_icon_2 {
+    display: flex;
+    justify-content: left;
+}
+.contact_item_1 {
+    display: flex;
+    justify-content: right;
+    text-align: center;
+    align-items: center;
+}
+.contact_item_2 {
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    align-items: center;
+    
 }
