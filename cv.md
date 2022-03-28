@@ -26,7 +26,7 @@ Telegram: @BalashovaMa
 
 Programming languages and technologies: JavaScript, HTML, CSS/SCSS
 
-Tools: GIT, VS Code
+Tools: GIT, VS Code, Figma
 
 *****
 
