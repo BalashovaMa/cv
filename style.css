@@ -13,15 +13,21 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     height: 100vh;
-    width: 100%;
+    
     background-color: #6e675f;
     box-sizing: border-box;
     flex-direction: column;
     color: #e3d23c;
+    width: 100%;
     font-size: 20px;
     font-weight: 400;
     min-width: 320px;
     line-height: 2;
+    min-width: 850px;
+    max-width: 1280px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
 }
 .wrapper {
     display: flex;
@@ -79,7 +85,7 @@ a:hover {
     align-items: center;
     margin-top: 20px;
 }
-.contacts {
+.container {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -125,3 +131,18 @@ a:hover {
 .contact_link {
     color: pink;
 }
+.skills {
+    background-color: #edebd7;
+    color: #6e675f;
+}
+.grid-container-skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+    width: 100%;
+    padding: 20px;
+  }
+  .skills-ico {
+      width: 100px;
+      height: 100px;
+  }
