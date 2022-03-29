@@ -84,12 +84,14 @@ a:hover {
     display: flex;
     justify-content: center;
     padding: 10px;
+    flex-direction: column;
+    text-align: center;
 }
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 100px 100px 1fr;
     grid-gap: 10px;
-    
+    width: 100%;
     padding: 10px;
   }
   .contact_icon_1 {
@@ -119,4 +121,7 @@ a:hover {
 }
 .contact_icon_2:hover {
     transform: scale(1.1);
+}
+.contact_link {
+    color: pink;
 }
