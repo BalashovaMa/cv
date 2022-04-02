@@ -92,6 +92,7 @@ a:hover {
     padding: 10px;
     flex-direction: column;
     text-align: center;
+    align-items: center;
 }
 .grid-container {
     display: grid;
@@ -153,4 +154,27 @@ a:hover {
     padding: 10px;
    justify-content: center;
    flex-direction: column;
+}
+.screen {
+    width: calc(100% - 50px);
+
+} 
+.container-projects {
+    display: flex;
+    background-color: #edebd7;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: #6e675f;
+}
+.project {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.certificate {
+    align-items: center;
 }
