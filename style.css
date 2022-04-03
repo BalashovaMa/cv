@@ -20,7 +20,7 @@ body {
     color: #e3d23c;
     width: 100%;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
     min-width: 320px;
     line-height: 2;
     min-width: 850px;
@@ -175,6 +175,25 @@ a:hover {
     justify-content: space-between;
    
 }
-.certificate {
-    align-items: center;
+.languages {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 100px;
+
 }
+.footer_container {
+    display: flex;
+    padding: 10px 40px;
+    align-items: center;
+    min-height: 60px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .git {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 0px;
+    
+  }
