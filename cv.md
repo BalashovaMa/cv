@@ -48,9 +48,6 @@ module.exports = function towelSort(matrix) {
 }
 ```
 *****
-**Projects**
-
-*****
 
 **Education**
 
