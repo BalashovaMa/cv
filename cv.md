@@ -1,5 +1,5 @@
 # Balashova Maryna
-
+<image src="./assets/foto_sep.jpg" alt="Foto_res">
 ###### Front-End Developer 
 
 ***Contact information***
