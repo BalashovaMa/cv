@@ -1,5 +1,6 @@
 # Balashova Maryna
 <image src="./assets/foto_sep.jpg" alt="Foto_res">
+
 ###### Front-End Developer 
 
 ***Contact information***
@@ -66,7 +67,7 @@ module.exports = function towelSort(matrix) {
 **Languages**
 
 - Ukrainian (native)
-- Russian (native)
+- Russian (fluent)
 - English - B1 (EPAM English Test result)
 
 
