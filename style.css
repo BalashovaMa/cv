@@ -143,6 +143,11 @@ a:hover {
     width: 100%;
     padding: 20px;
   }
+  .tools-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+  }
   .skills-ico {
       width: 100px;
       height: 100px;
